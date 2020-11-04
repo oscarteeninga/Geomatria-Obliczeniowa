@@ -29,3 +29,4 @@ traitlets==4.3.3
 wcwidth==0.1.9
 random-geometry-points==1.1.2
 imgaug==0.4.0
+pylbfgs==0.2.0.13

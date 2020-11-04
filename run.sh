@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-. venv/bin/activate
+. geometria/bin/activate
 jupyter notebook
